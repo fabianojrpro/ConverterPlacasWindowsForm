@@ -1,0 +1,11 @@
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\bin\Debug\ConversorPlacasCinzas.exe.config
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\bin\Debug\ConversorPlacasCinzas.exe
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\bin\Debug\ConversorPlacasCinzas.pdb
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\obj\Debug\ConversorPlacasCinzas.csproj.AssemblyReference.cache
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\obj\Debug\ConversorPlacasCinzas.csproj.SuggestedBindingRedirects.cache
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\obj\Debug\ConversorPlacasCinzas.Frm_Conversor.resources
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\obj\Debug\ConversorPlacasCinzas.Properties.Resources.resources
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\obj\Debug\ConversorPlacasCinzas.csproj.GenerateResource.cache
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\obj\Debug\ConversorPlacasCinzas.csproj.CoreCompileInputs.cache
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\obj\Debug\ConversorPlacasCinzas.exe
+D:\WorkC#\Projetos\ConversorPlacasCinzas\ConversorPlacasCinzas\obj\Debug\ConversorPlacasCinzas.pdb
